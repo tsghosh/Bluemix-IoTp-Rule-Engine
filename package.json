@@ -1,0 +1,27 @@
+{
+	"name": "blumeix-r-engine",
+	"description": "Node.js interface for watson IOTP Rules (formerly RTI).",
+	"author": "T S Ghosh <tsg.tuhin@gmail.com>",
+	"keywords": [
+        "bluemix",
+        "r",
+        "js interface",
+		"analytics",
+		"RTI"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/tsghosh/Bluemix-IoTp-Rule-Engine"
+	},
+	"version": "0.0.1",
+	"license": "MIT",
+	"private": true,
+	"scripts": {
+	},
+	"devDependencies": {
+	},
+	"dependencies": {
+		"node-rest-client":"3.1.0"
+	}
+}
+
